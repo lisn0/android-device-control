@@ -5,6 +5,8 @@ devices. Find connected devices, see the foreground app, and read the screen's
 accessibility tree. The MCP tools are read-only by default, with taps available
 when explicitly enabled for one device.
 
+[![Android Device Control on mcprush](https://mcprush.com/badge/android-device-control-mcp/compact.svg)](https://mcprush.com/to/android-device-control-mcp?ref=badge) [![Android Device Control on Glama](https://glama.ai/mcp/servers/lisn0/android-device-control/badges/score.svg)](https://glama.ai/mcp/servers/lisn0/android-device-control)
+
 [PyPI](https://pypi.org/project/android-device-control/) ·
 [npm](https://www.npmjs.com/package/android-device-control) ·
 [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.lisn0%2Fandroid-device-control/versions/latest)
